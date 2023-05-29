@@ -1,0 +1,9 @@
+.content {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.invalid-feedback {
+    display: inline;
+}

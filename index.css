@@ -1,0 +1,14 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background: rebeccapurple;
+    margin-bottom: 30px;
+}
+
+.btn {
+    padding: 10px;
+}
+
+.hide {
+    display: none;
+}

@@ -1,0 +1,13 @@
+.mystyle {
+    width: 200px;
+    padding: 200px;
+    height: 100px;
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+}
+
+.hide {
+    display: none;
+}
