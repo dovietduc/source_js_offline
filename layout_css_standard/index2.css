@@ -1,0 +1,25 @@
+/* // dung ham tinh toan width nho di */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.item_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: calc(33.3333333% - 15px);
+    margin-left: 15px;
+}
+
+.item img {
+    max-width: 100%;
+}
